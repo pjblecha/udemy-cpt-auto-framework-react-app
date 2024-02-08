@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+yarn.lock
+package-lock.json
+
+/e2e/node_modules
+/e2e/package.json
+/e2e/tsconfig.json
+/e2e/yarn.lock
+
